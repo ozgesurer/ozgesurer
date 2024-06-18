@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## 🔭 I’m currently working on uncertainty quantification.
+
+## 📫 How to reach me: surero@miamioh.edu
+
 <!--
 **ozgesurer/ozgesurer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
